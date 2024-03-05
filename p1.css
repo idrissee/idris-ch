@@ -1,0 +1,44 @@
+body 
+{
+    background-color: antiquewhite;
+    font-size: 12px;
+   
+   
+
+}
+.jml
+{ 
+    background-color: white;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 120px;
+    margin-right: 120px;
+    line-height: 2;
+}
+.jml3
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    
+}
+.jml2
+{
+    background-color: hsl(330, 100%, 98%);
+}
+h2,h3{ color:  hsl(332, 51%, 32%)}
+img{
+   height: 200px;
+   width: 450px;
+   margin-top: 20px;
+   margin-left: 15px;
+}
+h3{
+    margin-left: 20px;
+}
+td{ border-bottom: 1px solid gray}
+
+
+    
+
+   
